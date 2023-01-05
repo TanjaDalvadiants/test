@@ -1,7 +1,4 @@
 # Hello, world!
 
-i study in Netology
+i am study in Netology
 
-05.01.2023
-
-nfyz
